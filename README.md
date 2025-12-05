@@ -174,7 +174,7 @@ p.note { display: none; }
 <a href="20251205_003.JPG" target="_blank"><img src="20251205_003.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251205_004.JPG" target="_blank"><img src="20251205_004.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">ホームセンターのTVが喪中、王家崇拝の象徴</span></h2>
+<h2><span class="yellow">ホームセンターのTVが喪中、王室崇拝の現れです</span></h2>
 <a href="20251205_005.JPG" target="_blank"><img src="20251205_005.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <!--
