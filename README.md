@@ -221,6 +221,9 @@ p.note { display: none; }
 <h2><span class="yellow">夕陽を浴びて一枚！</span></h2>
 <a href="20251205_022.JPG" target="_blank"><img src="20251205_022.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">AIに頼んで作った若返り画像も一枚！</span></h2>
+<a href="20251205_041.png" target="_blank"><img src="20251205_041.png" alt="サンプル画像" class="responsive-media"></a>
+
 <h2><span class="yellow">街中の建物は新旧入り乱れてます</span></h2>
 <a href="20251205_023.JPG" target="_blank"><img src="20251205_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 
